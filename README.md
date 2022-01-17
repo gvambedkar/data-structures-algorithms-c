@@ -1,2 +1,2 @@
-# data-structures-algorithms-c
-Data Structures and Algorithms in C
+# Data Structures Algorithms In C
+
